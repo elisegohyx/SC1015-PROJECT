@@ -1,0 +1,5 @@
+READ ME 
+
+REFERENCE: Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource] 
+
+Our project is about how different factors affect number of deaths from covid 19 and what we cann do to reduce future death rates. We started our project with cleaning of our data sets into common dates between the factors. Then we shifted the predictors (which consists of daily hospitalisation, weekly cases, accumulated vaccination) up by a few weeks to find the correlation between the response(weekly deaths). Then we did linear regression and multivariate to find the best correlation and to predict the lowest future death rates. This is such that we can give appropriate recommendations to reduce the number of death rates from covid-19 patients. 
